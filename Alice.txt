@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This change was made on the website.
 Editing on the website again.
 This is a new line in my file.
+Editing to create a merge conflict.
