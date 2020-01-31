@@ -1,1 +1,2 @@
 Hi! I'm Bob. I'm new here.
+Changing to create a merge conflict.
