@@ -1,2 +1,2 @@
 Hi! I'm Bob. I've been here for a while now.
-Changing to create a merge conflict.
+Changing yet again.
